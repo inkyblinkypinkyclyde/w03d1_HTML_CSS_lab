@@ -1,0 +1,38 @@
+body {
+    margin: 0;
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+ul {
+    list-style: none;
+}
+
+body>header {
+    background-color: dodgerblue;
+    color: white;
+}
+
+
+
+body>header>nav>ul>li>a {
+    color: white;
+}
+
+body>footer {
+    background-color: dodgerblue;
+    padding: 10px;
+    text-align: center;
+    color: white;
+}
+
+body>header>nav {
+    color: white;
+}
+
+#logo {
+    margin: 0;
+}
+
+.add-bullets {
+    list-style-type: circle;
+}
